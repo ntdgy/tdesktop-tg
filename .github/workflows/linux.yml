@@ -93,7 +93,6 @@ jobs:
           -D CMAKE_C_FLAGS="-Werror" \
           -D CMAKE_CXX_FLAGS="-Werror" \
           -D CMAKE_EXE_LINKER_FLAGS="-s" \
-          # -D TDESKTOP_API_TEST=ON \
           -D TDESKTOP_API_ID="94575" \
           -D TDESKTOP_API_HASH="a3406de8d171bb422bb6ddf3bbd800e2" \
           -D DESKTOP_APP_DISABLE_AUTOUPDATE=OFF \
